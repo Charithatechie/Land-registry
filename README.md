@@ -1,2 +1,3 @@
 # Land-registry
-This is a blockchian based project
+This is a blockchain based project
+
